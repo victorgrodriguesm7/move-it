@@ -7,7 +7,7 @@
 
 # Move it
 
-Move it's a project over the Next Level Week that helps everyone who passes many hours in front of a computer to do exercises to avoid certain diseases, using a scoring system to instigate the exercises.
+Move it's a project over the [Next Level Week](https://nextlevelweek.com/pre-nlw) that helps everyone who passes many hours using a computer to help them to do exercises to avoid certain diseases, using a scoring system to instigate the exercises.
 
 ## :rocket: Built with
 
